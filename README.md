@@ -1,1 +1,1 @@
-# Google-Dialogflow-chatbots
+# Google-Dialogflow-CourseBot
